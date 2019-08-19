@@ -8,6 +8,17 @@
     <artifactId>kotlin-plugin</artifactId>
     <version>1.0.0</version>
 
+    <repositories>
+        <repository>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+        </repository>
+        <repository>
+            <id>bungeecord-repo</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </repository>
+    </repositories>
+
     <properties>
         <kotlin.version>1.3.41</kotlin.version>
         <corountines.version>1.3.0-RC</corountines.version>
