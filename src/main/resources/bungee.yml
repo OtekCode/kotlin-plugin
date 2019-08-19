@@ -1,5 +1,5 @@
 name: KotlinPlugin
 description: Allows to use Kotlin in plugins.
 version: ${project.version}
-main: pl.otek.kotlin.bungee.BungeeKotlinPlugin
+main: pl.otekplay.kotlin.bungee.BungeeKotlinPlugin
 author: Otekplay
